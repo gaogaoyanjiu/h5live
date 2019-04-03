@@ -5,3 +5,5 @@
 - CCTV5高清：http://ivi.bupt.edu.cn/hls/cctv5hd.m3u8
 - CCTV5+高清：http://ivi.bupt.edu.cn/hls/cctv5phd.m3u8
 - CCTV6高清：http://ivi.bupt.edu.cn/hls/cctv6hd.m3u8
+
+- 哈酷云资源：http://www.666zy.com/ 
